@@ -1,0 +1,5 @@
+F:\OutSource\PaiJiShow\DBUtility\bin\Debug\DBUtility.dll
+F:\OutSource\PaiJiShow\DBUtility\bin\Debug\DBUtility.pdb
+F:\OutSource\PaiJiShow\DBUtility\obj\Debug\DBUtility.dll
+F:\OutSource\PaiJiShow\DBUtility\obj\Debug\DBUtility.pdb
+F:\OutSource\PaiJiShow\DBUtility\obj\Debug\PaiJiShow.DBUtility.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+F:\OutSource\PaiJiShow\PaiJiShow.DataAccess\bin\Debug\PaiJiShow.DataAccess.dll
+F:\OutSource\PaiJiShow\PaiJiShow.DataAccess\bin\Debug\PaiJiShow.DataAccess.pdb
+F:\OutSource\PaiJiShow\PaiJiShow.DataAccess\obj\Debug\PaiJiShow.DataAccess.csprojResolveAssemblyReference.cache
+F:\OutSource\PaiJiShow\PaiJiShow.DataAccess\obj\Debug\PaiJiShow.DataAccess.dll
+F:\OutSource\PaiJiShow\PaiJiShow.DataAccess\obj\Debug\PaiJiShow.DataAccess.pdb
