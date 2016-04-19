@@ -13,6 +13,7 @@ namespace PaiJiShow.Model
         private string password;
         private string chinese_Name;
         private string email;
+        private string call_number;
         private int gradeid;
         private int franid;
         private float balance;
@@ -63,7 +64,16 @@ namespace PaiJiShow.Model
             get { return email; }
             set { email = value; }
         }
-        
+
+        /// <summary>
+        /// 电话
+        /// </summary>
+        public string Call_number
+        {
+            get { return call_number; }
+            set { call_number = value; }
+        }
+
         /// <summary>
         /// 会员等级ID
         /// </summary>

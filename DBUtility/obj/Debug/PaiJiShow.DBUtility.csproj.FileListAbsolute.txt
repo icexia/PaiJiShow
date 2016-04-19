@@ -3,3 +3,8 @@ F:\OutSource\PaiJiShow\DBUtility\bin\Debug\DBUtility.pdb
 F:\OutSource\PaiJiShow\DBUtility\obj\Debug\DBUtility.dll
 F:\OutSource\PaiJiShow\DBUtility\obj\Debug\DBUtility.pdb
 F:\OutSource\PaiJiShow\DBUtility\obj\Debug\PaiJiShow.DBUtility.csprojResolveAssemblyReference.cache
+G:\MyGit\PaiJiShow\DBUtility\bin\Debug\DBUtility.dll
+G:\MyGit\PaiJiShow\DBUtility\bin\Debug\DBUtility.pdb
+G:\MyGit\PaiJiShow\DBUtility\obj\Debug\PaiJiShow.DBUtility.csprojResolveAssemblyReference.cache
+G:\MyGit\PaiJiShow\DBUtility\obj\Debug\DBUtility.dll
+G:\MyGit\PaiJiShow\DBUtility\obj\Debug\DBUtility.pdb

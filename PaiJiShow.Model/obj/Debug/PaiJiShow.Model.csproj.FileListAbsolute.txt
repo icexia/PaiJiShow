@@ -3,3 +3,8 @@ F:\OutSource\PaiJiShow\PaiJiShow.Model\bin\Debug\PaiJiShow.Model.pdb
 F:\OutSource\PaiJiShow\PaiJiShow.Model\obj\Debug\PaiJiShow.Model.csprojResolveAssemblyReference.cache
 F:\OutSource\PaiJiShow\PaiJiShow.Model\obj\Debug\PaiJiShow.Model.dll
 F:\OutSource\PaiJiShow\PaiJiShow.Model\obj\Debug\PaiJiShow.Model.pdb
+G:\MyGit\PaiJiShow\PaiJiShow.Model\bin\Debug\PaiJiShow.Model.dll
+G:\MyGit\PaiJiShow\PaiJiShow.Model\bin\Debug\PaiJiShow.Model.pdb
+G:\MyGit\PaiJiShow\PaiJiShow.Model\obj\Debug\PaiJiShow.Model.csprojResolveAssemblyReference.cache
+G:\MyGit\PaiJiShow\PaiJiShow.Model\obj\Debug\PaiJiShow.Model.dll
+G:\MyGit\PaiJiShow\PaiJiShow.Model\obj\Debug\PaiJiShow.Model.pdb

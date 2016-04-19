@@ -8,50 +8,76 @@ namespace PaiJiShow.Model
 {
     public class CommentInfo
     {
+
+        private int commentID;
         /// <summary>
         /// 评论ID
         /// </summary>
-        private int commentID;
         public int CommentID
         {
             get { return commentID; }
             set { commentID = value; }
         }
 
+        private int userID;
         /// <summary>
         /// 所属用户ID
         /// </summary>
-        private int userID;
         public int UserID
         {
             get { return userID; }
             set { userID = value; }
         }
 
+
+        private int masterID;
+        /// <summary>
+        /// 视频或者产品ID
+        /// </summary>
+        public int MasterID
+        {
+            get { return masterID; }
+            set { masterID = value; }
+        }
+
+
+        private string contents;
         /// <summary>
         /// 评论,心得内容
         /// </summary>
-        private string contents;
         public string Contents
         {
             get { return contents; }
             set { contents = value; }
         }
 
+
+        private DateTime release_Time;
         /// <summary>
         /// 评论发布时间
         /// </summary>
-        private DateTime release_Time;
         public DateTime Release_Time
         {
             get { return release_Time; }
             set { release_Time = value; }
         }
 
+
+        private int classify;
+        /// <summary>
+        /// 评论分类(1:视频评论 2:产品评论)
+        /// </summary>
+        public int Classify
+        {
+            get { return classify; }
+            set { classify = value; }
+        }
+
+
+        private bool status;
         /// <summary>
         /// 状态
         /// </summary>
-        private bool status;
         public bool Status
         {
             get { return status; }
@@ -64,5 +90,6 @@ namespace PaiJiShow.Model
             get { return userInfo; }
             set { userInfo = value; }
         }
+
     }
 }

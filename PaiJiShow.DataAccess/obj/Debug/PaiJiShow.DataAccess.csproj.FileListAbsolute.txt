@@ -3,3 +3,12 @@ F:\OutSource\PaiJiShow\PaiJiShow.DataAccess\bin\Debug\PaiJiShow.DataAccess.pdb
 F:\OutSource\PaiJiShow\PaiJiShow.DataAccess\obj\Debug\PaiJiShow.DataAccess.csprojResolveAssemblyReference.cache
 F:\OutSource\PaiJiShow\PaiJiShow.DataAccess\obj\Debug\PaiJiShow.DataAccess.dll
 F:\OutSource\PaiJiShow\PaiJiShow.DataAccess\obj\Debug\PaiJiShow.DataAccess.pdb
+G:\MyGit\PaiJiShow\PaiJiShow.DataAccess\bin\Debug\PaiJiShow.DataAccess.dll
+G:\MyGit\PaiJiShow\PaiJiShow.DataAccess\bin\Debug\PaiJiShow.DataAccess.pdb
+G:\MyGit\PaiJiShow\PaiJiShow.DataAccess\bin\Debug\DBUtility.dll
+G:\MyGit\PaiJiShow\PaiJiShow.DataAccess\bin\Debug\PaiJiShow.Model.dll
+G:\MyGit\PaiJiShow\PaiJiShow.DataAccess\bin\Debug\DBUtility.pdb
+G:\MyGit\PaiJiShow\PaiJiShow.DataAccess\bin\Debug\PaiJiShow.Model.pdb
+G:\MyGit\PaiJiShow\PaiJiShow.DataAccess\obj\Debug\PaiJiShow.DataAccess.csprojResolveAssemblyReference.cache
+G:\MyGit\PaiJiShow\PaiJiShow.DataAccess\obj\Debug\PaiJiShow.DataAccess.dll
+G:\MyGit\PaiJiShow\PaiJiShow.DataAccess\obj\Debug\PaiJiShow.DataAccess.pdb

@@ -39,7 +39,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommentManager.cs" />
+    <Compile Include="FranchiseeManager.cs" />
+    <Compile Include="GradeManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserManager.cs" />
+    <Compile Include="VideoManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DBUtility\PaiJiShow.DBUtility.csproj">
+      <Project>{075c2f0b-1a2f-410b-8cc4-6a817bd3052a}</Project>
+      <Name>PaiJiShow.DBUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PaiJiShow.Model\PaiJiShow.Model.csproj">
+      <Project>{7d4a7948-1d3d-49da-b4d7-ab9adda670f3}</Project>
+      <Name>PaiJiShow.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
