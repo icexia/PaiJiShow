@@ -12,3 +12,12 @@ G:\MyGit\PaiJiShow\PaiJiShow.DataAccess\bin\Debug\PaiJiShow.Model.pdb
 G:\MyGit\PaiJiShow\PaiJiShow.DataAccess\obj\Debug\PaiJiShow.DataAccess.csprojResolveAssemblyReference.cache
 G:\MyGit\PaiJiShow\PaiJiShow.DataAccess\obj\Debug\PaiJiShow.DataAccess.dll
 G:\MyGit\PaiJiShow\PaiJiShow.DataAccess\obj\Debug\PaiJiShow.DataAccess.pdb
+G:\Personally\商业\PaiJiShow\PaiJiShow.DataAccess\bin\Debug\PaiJiShow.DataAccess.dll
+G:\Personally\商业\PaiJiShow\PaiJiShow.DataAccess\bin\Debug\PaiJiShow.DataAccess.pdb
+G:\Personally\商业\PaiJiShow\PaiJiShow.DataAccess\bin\Debug\DBUtility.dll
+G:\Personally\商业\PaiJiShow\PaiJiShow.DataAccess\bin\Debug\PaiJiShow.Model.dll
+G:\Personally\商业\PaiJiShow\PaiJiShow.DataAccess\bin\Debug\DBUtility.pdb
+G:\Personally\商业\PaiJiShow\PaiJiShow.DataAccess\bin\Debug\PaiJiShow.Model.pdb
+G:\Personally\商业\PaiJiShow\PaiJiShow.DataAccess\obj\Debug\PaiJiShow.DataAccess.csprojResolveAssemblyReference.cache
+G:\Personally\商业\PaiJiShow\PaiJiShow.DataAccess\obj\Debug\PaiJiShow.DataAccess.dll
+G:\Personally\商业\PaiJiShow\PaiJiShow.DataAccess\obj\Debug\PaiJiShow.DataAccess.pdb

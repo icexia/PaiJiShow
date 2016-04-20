@@ -42,6 +42,7 @@
     <Compile Include="CommentInfo.cs" />
     <Compile Include="FranchiseeInfo.cs" />
     <Compile Include="GradeInfo.cs" />
+    <Compile Include="ProductInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UserInfo.cs" />
     <Compile Include="VideoInfo.cs" />

@@ -18,7 +18,7 @@ namespace PaiJiShow.DataAccess
             if (model != null)
             {
                 string sql = string.Format(@"insert into userInfo (username,password,chinese_name,email,call_number,gradeid,franid,balance,is_Admin) 
-                                            values('{0}','{1}','{2}','{3}','{4}',{5},{6},{7},{8})",
+                                            values ('{0}','{1}','{2}','{3}','{4}',{5},{6},{7},{8})",
                                         model.UserName, model.Password, model.Chinese_Name, model.Email, model.Call_number, model.Gradeid, model.Franid, model.Balance, model.Is_Admin);
                 if (DBHelperSQL.ExecuteSql(sql) > 0)
                 {

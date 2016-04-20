@@ -8,3 +8,8 @@ G:\MyGit\PaiJiShow\DBUtility\bin\Debug\DBUtility.pdb
 G:\MyGit\PaiJiShow\DBUtility\obj\Debug\PaiJiShow.DBUtility.csprojResolveAssemblyReference.cache
 G:\MyGit\PaiJiShow\DBUtility\obj\Debug\DBUtility.dll
 G:\MyGit\PaiJiShow\DBUtility\obj\Debug\DBUtility.pdb
+G:\Personally\商业\PaiJiShow\DBUtility\bin\Debug\DBUtility.dll
+G:\Personally\商业\PaiJiShow\DBUtility\bin\Debug\DBUtility.pdb
+G:\Personally\商业\PaiJiShow\DBUtility\obj\Debug\PaiJiShow.DBUtility.csprojResolveAssemblyReference.cache
+G:\Personally\商业\PaiJiShow\DBUtility\obj\Debug\DBUtility.dll
+G:\Personally\商业\PaiJiShow\DBUtility\obj\Debug\DBUtility.pdb
